@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Data Pathway</title>
+    <link>https://datapathway.github.io/page/</link>
+    <description>Recent content in Pages on Data Pathway</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://datapathway.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Himalaya Sharma</title>
+      <link>https://datapathway.github.io/page/scientist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapathway.github.io/page/scientist/</guid>
+      <description>Born and raised in the steel city of Jamshedpur, India I have always been fascinated about technology and engineering. Curiosity accompanied with some fortuitous events led me to the world of machine learning and data science.
+Over the course of 3+ years in this sphere, I have leveraged data to solve complex problems. My work has spanned data analytics and machine learning for healthcare, computer vision, natural language processing.
+I&amp;rsquo;ve outlined my work experience and projects here - https://himalayasharma.</description>
+    </item>
+    
+    <item>
+      <title>Our &#34;data science expert&#34;</title>
+      <link>https://datapathway.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapathway.github.io/page/about/</guid>
+      <description>Himalaya Sharma Born and raised in the steel city of Jamshedpur, India I have always been fascinated about technology and engineering. Curiosity accompanied with some fortuitous events led me to the world of machine learning and data science.
+Over the course of 4+ years in this sphere, I have leveraged data to solve complex problems. My work has spanned data analytics and machine learning for healthcare, computer vision, natural language processing.</description>
+    </item>
+    
+    <item>
+      <title>Rohan Singla</title>
+      <link>https://datapathway.github.io/page/analyst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapathway.github.io/page/analyst/</guid>
+      <description>An experienced, dedicated and highly motivated product analyst with a demonstrated history of working in automotive industry. Adept at managing projects involving economic planning, design and development of electronic components in a car. Proven ability to analyze market trends and customer needs for future products. A confident and charismatic presenter with an astute sense of building rapport and negotiation. Currently pursuing Masters in Management Sciences from University of Waterloo with a focus on Data Analytics.</description>
+    </item>
+    
+    <item>
+      <title>Vivek Chauhan</title>
+      <link>https://datapathway.github.io/page/engineer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://datapathway.github.io/page/engineer/</guid>
+      <description>As a seasoned data professional, I bring a unique blend of expertise in data engineering and machine learning to the table, all with a shared goal of enabling well-informed decision-making for organizations. With a robust foundation in these domains, I&amp;rsquo;m committed to helping organizations unlock the full potential of their data assets, with a track record spanning diverse sectors including IoT, pharmaceuticals, telecommunications, and retail.
+In my role, I seamlessly bridge the worlds of data engineering and data science.</description>
+    </item>
+    
+  </channel>
+</rss>
